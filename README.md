@@ -10,7 +10,7 @@ Big Data Project: Supply Chain Sales Forecasting on Favorita Dataset (12.5M rows
 | STT | Họ và tên | MSSV |
 | :---: | :--- | :---: |
 | 1 |  Phước | 23521235 |
-| 2 |  Nghi | [Nhập MSSV ] |
+| 2 |  Nguyễn Huỳnh Xuân Nghi | 23521004 |
 | 3 |  Mạnh | 23520916 |
 
 
