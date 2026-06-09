@@ -1,0 +1,6 @@
+{
+    "track": "Track 1: Kalman + LSTM + LightGBM",
+    "nwrmsle": 0.4943571138800596,
+    "wmae": 3.045976723387955,
+    "wrmse": 11.27810178418165
+}
