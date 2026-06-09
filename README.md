@@ -1,5 +1,5 @@
 # IE212-BigData-SupplyChain-Forecasting
-Big Data Project: Supply Chain Sales Forecasting on Favorita Dataset (12.5M rows) using PySpark, LightGBM, and Temporal Fusion Transformer.
+Big Data Project: Supply Chain Sales Forecasting on Favorita Dataset (125M rows) using PySpark, LightGBM, LSTM and Temporal Fusion Transformer.
 
 **Môn học:** IE212 — Big Data, Học kỳ 2 - 2026  
 **Trường:** Trường Đại học Công nghệ Thông tin, ĐHQG-HCM  
@@ -9,16 +9,16 @@ Big Data Project: Supply Chain Sales Forecasting on Favorita Dataset (12.5M rows
 
 | STT | Họ và tên | MSSV |
 | :---: | :--- | :---: |
-| 1 |  Phước | 23521235 |
+| 1 |  Nguyễn Thị Ngọc Phước | 23521235 |
 | 2 |  Nguyễn Huỳnh Xuân Nghi | 23521004 |
-| 3 |  Mạnh | 23520916 |
+| 3 |  Nguyễn Tấn Mạnh | 23520916 |
 
 
 
 ---
 
 ## Giới thiệu
-Dự án tái tạo bài báo *"Supply chain sales forecasting based on lightGBM and LSTM combination model"* và thực hiện các cải tiến trên tập dữ liệu Corporación Favorita (12.5M+ records). Nhóm tập trung vào việc xử lý dữ liệu lớn trên hạ tầng Spark và áp dụng các mô hình học sâu hiện đại để tối ưu hóa dự báo doanh số.
+Dự án tái tạo bài báo *"Supply chain sales forecasting based on lightGBM and LSTM combination model"* và thực hiện các cải tiến trên tập dữ liệu Corporación Favorita (125M+ records). Nhóm tập trung vào việc xử lý dữ liệu lớn trên hạ tầng Spark và áp dụng các mô hình học sâu hiện đại để tối ưu hóa dự báo doanh số.
 
 ## Dữ liệu
 **Lưu ý:** Dữ liệu gốc và các file trung gian (`.csv`, `.parquet`) được loại bỏ khỏi Git do kích thước lớn. 
